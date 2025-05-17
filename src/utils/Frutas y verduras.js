@@ -1,0 +1,3 @@
+document.addEventListener('DOMContentLoaded', function() {
+    // ... código idéntico al de Lacteos.js ...
+}); 
